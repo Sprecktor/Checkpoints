@@ -33,8 +33,12 @@ En Windows puedes ejecutar directamente el script haciendo doble clic si tu sist
 - Dificultad: la función `generate_sudoku()` elimina actualmente 40 números para crear el reto. Ajusta el número `for _ in range(40):` para cambiar la dificultad.
 
 **Ejecución de programa**
-
+Inicio del juego
 ![Inicio de Juego](imagenes/Begining.png)
+
+Movimientos del juego
 ![Movimientos del juego](imagenes/Gameplay.png)
 ![Logs](imagenes/logs.png)
+
+Recuperar partida despues de cierre
 ![Recuperar partida despues de cierre](imagenes/Reload.png)
